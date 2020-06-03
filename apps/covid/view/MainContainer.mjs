@@ -1,3 +1,4 @@
+import FooterContainer         from './FooterContainer.mjs';
 import HeaderContainer         from './HeaderContainer.mjs';
 import MainContainerController from './MainContainerController.mjs';
 import Viewport                from '../../../node_modules/neo.mjs/src/container/Viewport.mjs';
@@ -18,7 +19,7 @@ class MainContainer extends Viewport {
         items: [
             {module: HeaderContainer, height: 120},
             {ntype : 'component',     vdom  : {innerHTML: 'Center'}},
-            {ntype : 'component',     vdom  : {innerHTML: 'Footer'}}
+            FooterContainer
         ]
     }}
 }
