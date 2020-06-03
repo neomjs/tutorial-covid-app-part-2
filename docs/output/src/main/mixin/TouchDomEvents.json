@@ -6,7 +6,7 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {}
             },
             "description": "Will get imported in case Neo.config.useTouchEvents === true",
@@ -36,7 +36,7 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 16,
                 "columnno": 12,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {}
             },
             "kind": "member",
@@ -65,9 +65,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 24,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046024",
+                    "id": "astnode100046030",
                     "name": "TouchDomEvents#onTouchCancel",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -108,9 +108,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 32,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046039",
+                    "id": "astnode100046045",
                     "name": "TouchDomEvents#onTouchEnd",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -151,9 +151,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 40,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046054",
+                    "id": "astnode100046060",
                     "name": "TouchDomEvents#onTouchEnter",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -194,9 +194,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 48,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046069",
+                    "id": "astnode100046075",
                     "name": "TouchDomEvents#onTouchLeave",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -237,9 +237,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 56,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046084",
+                    "id": "astnode100046090",
                     "name": "TouchDomEvents#onTouchMove",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -280,9 +280,9 @@
                 "filename": "TouchDomEvents.mjs",
                 "lineno": 64,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/mixin",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/mixin",
                 "code": {
-                    "id": "astnode100046099",
+                    "id": "astnode100046105",
                     "name": "TouchDomEvents#onTouchStart",
                     "type": "MethodDefinition",
                     "paramnames": [

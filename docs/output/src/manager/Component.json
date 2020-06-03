@@ -6,7 +6,7 @@
                 "filename": "Component.mjs",
                 "lineno": 5,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "Component.mjs",
                 "lineno": 16,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "Component.mjs",
                 "lineno": 21,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "Component.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -114,9 +114,9 @@
                 "filename": "Component.mjs",
                 "lineno": 33,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046252",
+                    "id": "astnode100046258",
                     "name": "Component",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -156,9 +156,9 @@
                 "filename": "Component.mjs",
                 "lineno": 44,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046273",
+                    "id": "astnode100046279",
                     "name": "Component#down",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -220,9 +220,9 @@
                 "filename": "Component.mjs",
                 "lineno": 87,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046410",
+                    "id": "astnode100046416",
                     "name": "Component#findParentComponent",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -274,9 +274,9 @@
                 "filename": "Component.mjs",
                 "lineno": 111,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046459",
+                    "id": "astnode100046465",
                     "name": "Component#getChildIds",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -327,9 +327,9 @@
                 "filename": "Component.mjs",
                 "lineno": 120,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046472",
+                    "id": "astnode100046478",
                     "name": "Component#getChildren",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -381,9 +381,9 @@
                 "filename": "Component.mjs",
                 "lineno": 141,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046519",
+                    "id": "astnode100046525",
                     "name": "Component#getParentIds",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -435,9 +435,9 @@
                 "filename": "Component.mjs",
                 "lineno": 160,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046558",
+                    "id": "astnode100046564",
                     "name": "Component#getParentPath",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -487,9 +487,9 @@
                 "filename": "Component.mjs",
                 "lineno": 180,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046608",
+                    "id": "astnode100046614",
                     "name": "Component#getParents",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -541,9 +541,9 @@
                 "filename": "Component.mjs",
                 "lineno": 200,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046645",
+                    "id": "astnode100046651",
                     "name": "Component#up",
                     "type": "MethodDefinition",
                     "paramnames": [

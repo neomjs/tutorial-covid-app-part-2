@@ -6,7 +6,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 5,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 16,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "kind": "member",
@@ -84,7 +84,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "kind": "member",
@@ -109,7 +109,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 33,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "description": "Remote method access for other workers",
@@ -135,7 +135,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 51,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "kind": "member",
@@ -160,7 +160,7 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 57,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {}
             },
             "description": "Void attributes inside html tags",
@@ -189,9 +189,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 67,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042467",
+                    "id": "astnode100042473",
                     "name": "DomAccess",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -231,9 +231,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 85,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042497",
+                    "id": "astnode100042503",
                     "name": "DomAccess#addScript",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -302,9 +302,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 102,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042539",
+                    "id": "astnode100042545",
                     "name": "DomAccess#applyBodyCls",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -353,9 +353,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 113,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042563",
+                    "id": "astnode100042569",
                     "name": "DomAccess#execCommand",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -414,9 +414,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 123,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042578",
+                    "id": "astnode100042584",
                     "name": "DomAccess#focus",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -468,9 +468,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 140,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042607",
+                    "id": "astnode100042613",
                     "name": "DomAccess#getAttributes",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -543,9 +543,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 177,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042711",
+                    "id": "astnode100042717",
                     "name": "DomAccess#getBoundingClientRect",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -608,9 +608,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 218,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042823",
+                    "id": "astnode100042829",
                     "name": "DomAccess#getElement",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -661,9 +661,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 228,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042834",
+                    "id": "astnode100042840",
                     "name": "DomAccess#getElementOrBody",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -716,9 +716,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 242,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042861",
+                    "id": "astnode100042867",
                     "name": "DomAccess#loadScript",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -780,9 +780,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 264,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042910",
+                    "id": "astnode100042916",
                     "name": "DomAccess#loadStylesheet",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -833,9 +833,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 285,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042958",
+                    "id": "astnode100042964",
                     "name": "DomAccess#onDomContentLoaded",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -865,9 +865,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 300,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100042978",
+                    "id": "astnode100042984",
                     "name": "DomAccess#onReadDom",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -942,9 +942,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 362,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043247",
+                    "id": "astnode100043253",
                     "name": "DomAccess#read",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -986,9 +986,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 377,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043261",
+                    "id": "astnode100043267",
                     "name": "DomAccess#scrollIntoView",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1077,9 +1077,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 399,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043309",
+                    "id": "astnode100043315",
                     "name": "DomAccess#scrollToTableRow",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1158,9 +1158,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 425,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043389",
+                    "id": "astnode100043395",
                     "name": "DomAccess#selectNode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1239,9 +1239,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 445,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043447",
+                    "id": "astnode100043453",
                     "name": "DomAccess#windowScrollTo",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1313,9 +1313,9 @@
                 "filename": "DomAccess.mjs",
                 "lineno": 458,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main",
                 "code": {
-                    "id": "astnode100043476",
+                    "id": "astnode100043482",
                     "name": "DomAccess#write",
                     "type": "MethodDefinition",
                     "paramnames": [

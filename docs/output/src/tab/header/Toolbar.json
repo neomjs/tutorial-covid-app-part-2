@@ -6,7 +6,7 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {}
             },
             "kind": "member",
@@ -102,7 +102,7 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {}
             },
             "kind": "member",
@@ -130,9 +130,9 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 35,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {
-                    "id": "astnode100058035",
+                    "id": "astnode100058041",
                     "name": "Toolbar#afterSetUseActiveTabIndicator",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -184,9 +184,9 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 54,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {
-                    "id": "astnode100058085",
+                    "id": "astnode100058091",
                     "name": "Toolbar#createItems",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -217,9 +217,9 @@
                 "filename": "Toolbar.mjs",
                 "lineno": 69,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab/header",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab/header",
                 "code": {
-                    "id": "astnode100058119",
+                    "id": "astnode100058125",
                     "name": "Toolbar#getLayoutConfig",
                     "type": "MethodDefinition",
                     "paramnames": []

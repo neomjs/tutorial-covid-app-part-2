@@ -6,7 +6,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "description": "True automatically applies the core/Observable.mjs mixin",
@@ -60,7 +60,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 28,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 33,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -135,7 +135,7 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 38,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -164,9 +164,9 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 45,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062586",
+                    "id": "astnode100062592",
                     "name": "HashHistory#first",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -205,9 +205,9 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 53,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062596",
+                    "id": "astnode100062602",
                     "name": "HashHistory#getCount",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -246,9 +246,9 @@
                 "filename": "HashHistory.mjs",
                 "lineno": 62,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062606",
+                    "id": "astnode100062612",
                     "name": "HashHistory#push",
                     "type": "MethodDefinition",
                     "paramnames": [

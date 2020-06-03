@@ -6,7 +6,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 30,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "class",
@@ -35,7 +35,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 41,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -60,7 +60,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 46,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -85,7 +85,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 51,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -110,7 +110,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 56,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -135,7 +135,7 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 61,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -164,9 +164,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 69,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046847",
+                    "id": "astnode100046853",
                     "name": "DomEvent#fire",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -208,9 +208,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 153,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047128",
+                    "id": "astnode100047134",
                     "name": "DomEvent#generateListenerConfig",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -259,9 +259,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 188,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047206",
+                    "id": "astnode100047212",
                     "name": "DomEvent#getListener",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -359,9 +359,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 206,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047249",
+                    "id": "astnode100047255",
                     "name": "DomEvent#mountDomListeners",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -404,9 +404,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 252,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047371",
+                    "id": "astnode100047377",
                     "name": "DomEvent#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -529,9 +529,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 332,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047649",
+                    "id": "astnode100047655",
                     "name": "DomEvent#unregister",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -631,9 +631,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 402,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047889",
+                    "id": "astnode100047895",
                     "name": "DomEvent#updateListenerPlaceholder",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -715,9 +715,9 @@
                 "filename": "DomEvent.mjs",
                 "lineno": 427,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100047967",
+                    "id": "astnode100047973",
                     "name": "DomEvent#verifyDelegationPath",
                     "type": "MethodDefinition",
                     "paramnames": [

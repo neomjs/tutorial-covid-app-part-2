@@ -6,7 +6,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "description": "Helper class to include amCharts into your neo.mjs app<br />https://www.amcharts.com/docs/v4/",
@@ -36,7 +36,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 17,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "kind": "member",
@@ -61,7 +61,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "description": "Stores all chart ids inside an object",
@@ -87,7 +87,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 29,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "description": "Stores all chart config objects which arrived before the chart lib scripts got loaded",
@@ -113,7 +113,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 36,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "description": "Stores all chart data inside an object. key => chart id<br />No array since in case a chart gets loaded multiple times, we only want to apply the last data on mount.",
@@ -139,7 +139,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 41,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "kind": "member",
@@ -164,7 +164,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 46,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "kind": "member",
@@ -189,7 +189,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 51,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "kind": "member",
@@ -214,7 +214,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 56,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "kind": "member",
@@ -239,7 +239,7 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 62,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {}
             },
             "description": "Remote method access for other workers",
@@ -269,9 +269,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 77,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039302",
+                    "id": "astnode100039308",
                     "name": "AmCharts",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -311,9 +311,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 89,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039316",
+                    "id": "astnode100039322",
                     "name": "AmCharts#afterSetScriptsLoaded",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -365,9 +365,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 116,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039383",
+                    "id": "astnode100039389",
                     "name": "AmCharts#callMethod",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -433,9 +433,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 133,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039457",
+                    "id": "astnode100039463",
                     "name": "AmCharts#combineSeriesTooltip",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -476,9 +476,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 156,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039522",
+                    "id": "astnode100039528",
                     "name": "AmCharts#create",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -560,9 +560,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 183,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039623",
+                    "id": "astnode100039629",
                     "name": "AmCharts#hasChart",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -612,9 +612,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 192,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039636",
+                    "id": "astnode100039642",
                     "name": "AmCharts#insertAmChartsScripts",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -647,9 +647,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 216,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039727",
+                    "id": "astnode100039733",
                     "name": "AmCharts#setProperties",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -706,9 +706,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 234,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039760",
+                    "id": "astnode100039766",
                     "name": "AmCharts#setProperty",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -784,9 +784,9 @@
                 "filename": "AmCharts.mjs",
                 "lineno": 254,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/main/addon",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/main/addon",
                 "code": {
-                    "id": "astnode100039832",
+                    "id": "astnode100039838",
                     "name": "AmCharts#updateData",
                     "type": "MethodDefinition",
                     "paramnames": [

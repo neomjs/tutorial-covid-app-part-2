@@ -6,7 +6,7 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {}
             },
             "kind": "member",
@@ -107,9 +107,9 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 32,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {
-                    "id": "astnode100069352",
+                    "id": "astnode100069358",
                     "name": "RemoteMethodAccess#generateRemote",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -163,9 +163,9 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 52,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {
-                    "id": "astnode100069396",
+                    "id": "astnode100069402",
                     "name": "RemoteMethodAccess#onRegisterRemote",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -206,9 +206,9 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 77,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {
-                    "id": "astnode100069480",
+                    "id": "astnode100069486",
                     "name": "RemoteMethodAccess#onRemoteMethod",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -249,9 +249,9 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 115,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {
-                    "id": "astnode100069612",
+                    "id": "astnode100069618",
                     "name": "RemoteMethodAccess#reject",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -302,9 +302,9 @@
                 "filename": "RemoteMethodAccess.mjs",
                 "lineno": 129,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker/mixins",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker/mixins",
                 "code": {
-                    "id": "astnode100069637",
+                    "id": "astnode100069643",
                     "name": "RemoteMethodAccess#resolve",
                     "type": "MethodDefinition",
                     "paramnames": [

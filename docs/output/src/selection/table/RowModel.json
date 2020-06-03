@@ -6,7 +6,7 @@
                 "filename": "RowModel.mjs",
                 "lineno": 4,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "RowModel.mjs",
                 "lineno": 14,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "RowModel.mjs",
                 "lineno": 19,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "RowModel.mjs",
                 "lineno": 24,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -107,9 +107,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 30,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056192",
+                    "id": "astnode100056198",
                     "name": "RowModel#addDomListener",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -139,9 +139,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 49,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056230",
+                    "id": "astnode100056236",
                     "name": "RowModel#getRowId",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -195,9 +195,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 63,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056273",
+                    "id": "astnode100056279",
                     "name": "RowModel.getRowNode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -252,9 +252,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 81,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056316",
+                    "id": "astnode100056322",
                     "name": "RowModel#onKeyDownDown",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -295,9 +295,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 89,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056328",
+                    "id": "astnode100056334",
                     "name": "RowModel#onKeyDownUp",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -338,9 +338,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 98,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056341",
+                    "id": "astnode100056347",
                     "name": "RowModel#onNavKeyRow",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -390,9 +390,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 128,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056451",
+                    "id": "astnode100056457",
                     "name": "RowModel#onRowClick",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -433,9 +433,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 147,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056521",
+                    "id": "astnode100056527",
                     "name": "RowModel#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -476,9 +476,9 @@
                 "filename": "RowModel.mjs",
                 "lineno": 170,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100056574",
+                    "id": "astnode100056580",
                     "name": "RowModel#unregister",
                     "type": "MethodDefinition",
                     "paramnames": []

@@ -6,7 +6,7 @@
                 "filename": "ListModel.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "ListModel.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "ListModel.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "ListModel.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "member",
@@ -106,9 +106,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 29,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053042",
+                    "id": "astnode100053048",
                     "name": "ListModel#onKeyDownDown",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -149,9 +149,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 39,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053062",
+                    "id": "astnode100053068",
                     "name": "ListModel#onKeyDownLeft",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -192,9 +192,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 47,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053073",
+                    "id": "astnode100053079",
                     "name": "ListModel#onKeyDownRight",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -235,9 +235,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 55,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053084",
+                    "id": "astnode100053090",
                     "name": "ListModel#onKeyDownUp",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -278,9 +278,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 66,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053105",
+                    "id": "astnode100053111",
                     "name": "ListModel#onNavKey",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -330,9 +330,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 114,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053289",
+                    "id": "astnode100053295",
                     "name": "ListModel#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -373,9 +373,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 135,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053356",
+                    "id": "astnode100053362",
                     "name": "ListModel#selectAt",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -416,9 +416,9 @@
                 "filename": "ListModel.mjs",
                 "lineno": 149,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100053400",
+                    "id": "astnode100053406",
                     "name": "ListModel#unregister",
                     "type": "MethodDefinition",
                     "paramnames": []

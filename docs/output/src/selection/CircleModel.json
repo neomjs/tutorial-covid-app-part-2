@@ -6,7 +6,7 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {}
             },
             "kind": "member",
@@ -82,9 +82,9 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 25,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100050553",
+                    "id": "astnode100050559",
                     "name": "CircleModel#onKeyDownLeft",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -125,9 +125,9 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 33,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100050566",
+                    "id": "astnode100050572",
                     "name": "CircleModel#onKeyDownRight",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -168,9 +168,9 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 42,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100050578",
+                    "id": "astnode100050584",
                     "name": "CircleModel#onNavKey",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -220,9 +220,9 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 70,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100050700",
+                    "id": "astnode100050706",
                     "name": "CircleModel#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -263,9 +263,9 @@
                 "filename": "CircleModel.mjs",
                 "lineno": 90,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection",
                 "code": {
-                    "id": "astnode100050767",
+                    "id": "astnode100050773",
                     "name": "CircleModel#unregister",
                     "type": "MethodDefinition",
                     "paramnames": []

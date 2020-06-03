@@ -6,7 +6,7 @@
                 "filename": "VNode.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "VNode.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -57,9 +57,9 @@
                 "filename": "VNode.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064875",
+                    "id": "astnode100064881",
                     "name": "VNode.findChildVnode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -144,9 +144,9 @@
                 "filename": "VNode.mjs",
                 "lineno": 126,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100065243",
+                    "id": "astnode100065249",
                     "name": "VNode.findChildVnodeById",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -209,9 +209,9 @@
                 "filename": "VNode.mjs",
                 "lineno": 159,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100065314",
+                    "id": "astnode100065320",
                     "name": "VNode.getChildIds",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -264,9 +264,9 @@
                 "filename": "VNode.mjs",
                 "lineno": 180,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100065364",
+                    "id": "astnode100065370",
                     "name": "VNode.replaceChildVnode",
                     "type": "MethodDefinition",
                     "paramnames": [

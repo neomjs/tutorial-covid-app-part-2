@@ -6,7 +6,7 @@
                 "filename": "Base.mjs",
                 "lineno": 6,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {}
             },
             "description": "The abstract base class for the App, Data & VDom worker",
@@ -30,7 +30,7 @@
                 "filename": "Base.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {}
             },
             "kind": "member",
@@ -55,7 +55,7 @@
                 "filename": "Base.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {}
             },
             "kind": "member",
@@ -80,7 +80,7 @@
                 "filename": "Base.mjs",
                 "lineno": 27,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {}
             },
             "kind": "member",
@@ -107,7 +107,7 @@
                 "filename": "Base.mjs",
                 "lineno": 32,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {}
             },
             "kind": "member",
@@ -137,9 +137,9 @@
                 "filename": "Base.mjs",
                 "lineno": 39,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100067964",
+                    "id": "astnode100067970",
                     "name": "Base",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -179,9 +179,9 @@
                 "filename": "Base.mjs",
                 "lineno": 57,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068017",
+                    "id": "astnode100068023",
                     "name": "Base#onConstructed",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -211,9 +211,9 @@
                 "filename": "Base.mjs",
                 "lineno": 66,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068035",
+                    "id": "astnode100068041",
                     "name": "Base#onMessage",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -254,9 +254,9 @@
                 "filename": "Base.mjs",
                 "lineno": 102,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068157",
+                    "id": "astnode100068163",
                     "name": "Base#onPing",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -297,9 +297,9 @@
                 "filename": "Base.mjs",
                 "lineno": 112,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068171",
+                    "id": "astnode100068177",
                     "name": "Base#onRegisterNeoConfig",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -340,9 +340,9 @@
                 "filename": "Base.mjs",
                 "lineno": 126,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068197",
+                    "id": "astnode100068203",
                     "name": "Base#promiseMessage",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -414,9 +414,9 @@
                 "filename": "Base.mjs",
                 "lineno": 149,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/worker",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/worker",
                 "code": {
-                    "id": "astnode100068242",
+                    "id": "astnode100068248",
                     "name": "Base#sendMessage",
                     "type": "MethodDefinition",
                     "paramnames": [

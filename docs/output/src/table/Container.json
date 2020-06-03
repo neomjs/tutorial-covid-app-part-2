@@ -6,7 +6,7 @@
                 "filename": "Container.mjs",
                 "lineno": 10,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Container.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Container.mjs",
                 "lineno": 25,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Container.mjs",
                 "lineno": 30,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "todo: testing config, remove when Stores are ready",
@@ -103,7 +103,7 @@
                 "filename": "Container.mjs",
                 "lineno": 35,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "Default configs for each column",
@@ -128,7 +128,7 @@
                 "filename": "Container.mjs",
                 "lineno": 40,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "todo: testing config, remove when Stores are ready",
@@ -153,7 +153,7 @@
                 "filename": "Container.mjs",
                 "lineno": 44,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -177,7 +177,7 @@
                 "filename": "Container.mjs",
                 "lineno": 48,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -201,7 +201,7 @@
                 "filename": "Container.mjs",
                 "lineno": 53,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "Configs for Neo.table.header.Toolbar",
@@ -228,7 +228,7 @@
                 "filename": "Container.mjs",
                 "lineno": 57,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -253,7 +253,7 @@
                 "filename": "Container.mjs",
                 "lineno": 62,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "Additional used keys for the selection model",
@@ -277,7 +277,7 @@
                 "filename": "Container.mjs",
                 "lineno": 66,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -301,7 +301,7 @@
                 "filename": "Container.mjs",
                 "lineno": 71,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -326,7 +326,7 @@
                 "filename": "Container.mjs",
                 "lineno": 75,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -350,7 +350,7 @@
                 "filename": "Container.mjs",
                 "lineno": 79,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -374,7 +374,7 @@
                 "filename": "Container.mjs",
                 "lineno": 84,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "todo: only works for chrome & safari -> add a check",
@@ -399,7 +399,7 @@
                 "filename": "Container.mjs",
                 "lineno": 89,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "description": "Configs for Neo.table.View",
@@ -426,7 +426,7 @@
                 "filename": "Container.mjs",
                 "lineno": 94,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -452,7 +452,7 @@
                 "filename": "Container.mjs",
                 "lineno": 99,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -478,7 +478,7 @@
                 "filename": "Container.mjs",
                 "lineno": 103,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {}
             },
             "kind": "member",
@@ -507,9 +507,9 @@
                 "filename": "Container.mjs",
                 "lineno": 116,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058666",
+                    "id": "astnode100058672",
                     "name": "Container",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -549,9 +549,9 @@
                 "filename": "Container.mjs",
                 "lineno": 144,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058761",
+                    "id": "astnode100058767",
                     "name": "Container#onConstructed",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -581,9 +581,9 @@
                 "filename": "Container.mjs",
                 "lineno": 167,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058806",
+                    "id": "astnode100058812",
                     "name": "Container#afterSetSelectionModel",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -635,9 +635,9 @@
                 "filename": "Container.mjs",
                 "lineno": 179,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058823",
+                    "id": "astnode100058829",
                     "name": "Container#afterSetUseCustomScrollbars",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -689,9 +689,9 @@
                 "filename": "Container.mjs",
                 "lineno": 188,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058852",
+                    "id": "astnode100058858",
                     "name": "Container#applyCustomScrollbarsCss",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -722,9 +722,9 @@
                 "filename": "Container.mjs",
                 "lineno": 212,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058932",
+                    "id": "astnode100058938",
                     "name": "Container#beforeSetColumns",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -776,9 +776,9 @@
                 "filename": "Container.mjs",
                 "lineno": 226,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058951",
+                    "id": "astnode100058957",
                     "name": "Container#beforeSetHeaderToolbarId",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -830,9 +830,9 @@
                 "filename": "Container.mjs",
                 "lineno": 236,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058962",
+                    "id": "astnode100058968",
                     "name": "Container#beforeSetSelectionModel",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -884,9 +884,9 @@
                 "filename": "Container.mjs",
                 "lineno": 250,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100058983",
+                    "id": "astnode100058989",
                     "name": "Container#beforeSetStore",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -938,9 +938,9 @@
                 "filename": "Container.mjs",
                 "lineno": 279,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059038",
+                    "id": "astnode100059044",
                     "name": "Container#beforeSetViewId",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -992,9 +992,9 @@
                 "filename": "Container.mjs",
                 "lineno": 288,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059049",
+                    "id": "astnode100059055",
                     "name": "Container#createColumns",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1039,9 +1039,9 @@
                 "filename": "Container.mjs",
                 "lineno": 327,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059178",
+                    "id": "astnode100059184",
                     "name": "Container#createRandomViewData",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1082,9 +1082,9 @@
                 "filename": "Container.mjs",
                 "lineno": 334,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059189",
+                    "id": "astnode100059195",
                     "name": "Container#createViewData",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1125,9 +1125,9 @@
                 "filename": "Container.mjs",
                 "lineno": 351,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059233",
+                    "id": "astnode100059239",
                     "name": "Container#getVdomRoot",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -1167,9 +1167,9 @@
                 "filename": "Container.mjs",
                 "lineno": 359,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059245",
+                    "id": "astnode100059251",
                     "name": "Container#getVnodeRoot",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -1209,9 +1209,9 @@
                 "filename": "Container.mjs",
                 "lineno": 367,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059257",
+                    "id": "astnode100059263",
                     "name": "Container#loadData",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1252,9 +1252,9 @@
                 "filename": "Container.mjs",
                 "lineno": 386,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059318",
+                    "id": "astnode100059324",
                     "name": "Container#onSortColumn",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1312,9 +1312,9 @@
                 "filename": "Container.mjs",
                 "lineno": 399,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059353",
+                    "id": "astnode100059359",
                     "name": "Container#onStoreLoad",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1356,9 +1356,9 @@
                 "filename": "Container.mjs",
                 "lineno": 429,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059421",
+                    "id": "astnode100059427",
                     "name": "Container#onStoreRecordChange",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1442,9 +1442,9 @@
                 "filename": "Container.mjs",
                 "lineno": 438,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059438",
+                    "id": "astnode100059444",
                     "name": "Container#onToolbarItemsCreated",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -1486,9 +1486,9 @@
                 "filename": "Container.mjs",
                 "lineno": 447,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/table",
                 "code": {
-                    "id": "astnode100059449",
+                    "id": "astnode100059455",
                     "name": "Container#removeSortingCss",
                     "type": "MethodDefinition",
                     "paramnames": [

@@ -6,7 +6,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 5,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 15,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 20,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 25,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "description": "Internally stores the component id inside _component",
@@ -104,7 +104,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 30,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "description": "Set this to true in case the keydown event is supposed to bubble upwards inside the component tree",
@@ -129,7 +129,7 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -158,9 +158,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 46,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062711",
+                    "id": "astnode100062717",
                     "name": "KeyNavigation#beforeGetComponent",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -200,9 +200,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 56,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062723",
+                    "id": "astnode100062729",
                     "name": "KeyNavigation#beforeSetComponent",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -254,9 +254,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 63,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062734",
+                    "id": "astnode100062740",
                     "name": "KeyNavigation#destroy",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -286,9 +286,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 72,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062748",
+                    "id": "astnode100062754",
                     "name": "KeyNavigation#onKeyDown",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -329,9 +329,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 100,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062829",
+                    "id": "astnode100062835",
                     "name": "KeyNavigation#parseKeys",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -381,9 +381,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 127,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062884",
+                    "id": "astnode100062890",
                     "name": "KeyNavigation#parseUpperCaseKey",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -435,9 +435,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 153,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062928",
+                    "id": "astnode100062934",
                     "name": "KeyNavigation#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -478,9 +478,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 177,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100062987",
+                    "id": "astnode100062993",
                     "name": "KeyNavigation#removeKey",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -522,9 +522,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 198,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100063040",
+                    "id": "astnode100063046",
                     "name": "KeyNavigation#removeKeys",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -566,9 +566,9 @@
                 "filename": "KeyNavigation.mjs",
                 "lineno": 207,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100063064",
+                    "id": "astnode100063070",
                     "name": "KeyNavigation#unregister",
                     "type": "MethodDefinition",
                     "paramnames": []

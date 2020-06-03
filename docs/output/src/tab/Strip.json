@@ -6,7 +6,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 22,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -102,7 +102,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 26,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -127,7 +127,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 30,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -151,7 +151,7 @@
                 "filename": "Strip.mjs",
                 "lineno": 34,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {}
             },
             "kind": "member",
@@ -180,9 +180,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 44,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058222",
+                    "id": "astnode100058228",
                     "name": "Strip#onConstructed",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -212,9 +212,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 62,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058254",
+                    "id": "astnode100058260",
                     "name": "Strip#afterSetMounted",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -266,9 +266,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 79,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058282",
+                    "id": "astnode100058288",
                     "name": "Strip#afterSetUseActiveTabIndicator",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -320,9 +320,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 97,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058333",
+                    "id": "astnode100058339",
                     "name": "Strip#getActiveTab",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -361,9 +361,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 107,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058358",
+                    "id": "astnode100058364",
                     "name": "Strip#getActiveTabRectThenMove",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -394,9 +394,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 123,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058400",
+                    "id": "astnode100058406",
                     "name": "Strip#getTabContainer",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -426,9 +426,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 139,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058412",
+                    "id": "astnode100058418",
                     "name": "Strip#moveActiveIndicator",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -533,9 +533,9 @@
                 "filename": "Strip.mjs",
                 "lineno": 181,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/tab",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/tab",
                 "code": {
-                    "id": "astnode100058537",
+                    "id": "astnode100058543",
                     "name": "Strip#onTabBarPositionChange",
                     "type": "MethodDefinition",
                     "paramnames": [

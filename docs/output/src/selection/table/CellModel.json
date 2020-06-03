@@ -6,7 +6,7 @@
                 "filename": "CellModel.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "CellModel.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -53,7 +53,7 @@
                 "filename": "CellModel.mjs",
                 "lineno": 18,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -78,7 +78,7 @@
                 "filename": "CellModel.mjs",
                 "lineno": 23,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {}
             },
             "kind": "member",
@@ -107,9 +107,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 29,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054773",
+                    "id": "astnode100054779",
                     "name": "CellModel#addDomListener",
                     "type": "MethodDefinition",
                     "paramnames": []
@@ -139,9 +139,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 47,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054811",
+                    "id": "astnode100054817",
                     "name": "CellModel#onCellClick",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -182,9 +182,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 70,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054870",
+                    "id": "astnode100054876",
                     "name": "CellModel#onKeyDownDown",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -225,9 +225,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 78,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054882",
+                    "id": "astnode100054888",
                     "name": "CellModel#onKeyDownLeft",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -268,9 +268,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 86,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054895",
+                    "id": "astnode100054901",
                     "name": "CellModel#onKeyDownRight",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -311,9 +311,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 94,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054907",
+                    "id": "astnode100054913",
                     "name": "CellModel#onKeyDownUp",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -354,9 +354,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 103,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100054920",
+                    "id": "astnode100054926",
                     "name": "CellModel#onNavKeyColumn",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -406,9 +406,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 128,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100055020",
+                    "id": "astnode100055026",
                     "name": "CellModel#onNavKeyRow",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -458,9 +458,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 152,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100055116",
+                    "id": "astnode100055122",
                     "name": "CellModel#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -501,9 +501,9 @@
                 "filename": "CellModel.mjs",
                 "lineno": 172,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/selection/table",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/selection/table",
                 "code": {
-                    "id": "astnode100055183",
+                    "id": "astnode100055189",
                     "name": "CellModel#unregister",
                     "type": "MethodDefinition",
                     "paramnames": []

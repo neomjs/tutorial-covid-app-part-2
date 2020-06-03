@@ -6,7 +6,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "class",
@@ -28,7 +28,7 @@
                 "filename": "VDom.mjs",
                 "lineno": 13,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {}
             },
             "kind": "member",
@@ -57,9 +57,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100063978",
+                    "id": "astnode100063984",
                     "name": "VDom.findVdomChild",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -144,9 +144,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 120,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064320",
+                    "id": "astnode100064326",
                     "name": "VDom.getByFlag",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -208,9 +208,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 131,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064343",
+                    "id": "astnode100064349",
                     "name": "VDom.getChildIds",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -263,9 +263,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 151,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064393",
+                    "id": "astnode100064399",
                     "name": "VDom.getColumnNodes",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -324,9 +324,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 171,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064441",
+                    "id": "astnode100064447",
                     "name": "VDom.getColumnNodesIds",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -385,9 +385,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 182,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064462",
+                    "id": "astnode100064468",
                     "name": "VDom.getFlags",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -457,9 +457,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 211,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064533",
+                    "id": "astnode100064539",
                     "name": "VDom.insertAfterNode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -532,9 +532,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 222,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064549",
+                    "id": "astnode100064555",
                     "name": "VDom.insertBeforeNode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -607,9 +607,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 234,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064565",
+                    "id": "astnode100064571",
                     "name": "VDom.insertNode",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -692,9 +692,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 257,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064631",
+                    "id": "astnode100064637",
                     "name": "VDom.removeVdomChild",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -758,9 +758,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 275,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064666",
+                    "id": "astnode100064672",
                     "name": "VDom.replaceVdomChild",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -830,9 +830,9 @@
                 "filename": "VDom.mjs",
                 "lineno": 306,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/util",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/util",
                 "code": {
-                    "id": "astnode100064745",
+                    "id": "astnode100064751",
                     "name": "VDom.syncVdomIds",
                     "type": "MethodDefinition",
                     "paramnames": [

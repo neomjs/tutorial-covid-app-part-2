@@ -6,7 +6,7 @@
                 "filename": "Base.mjs",
                 "lineno": 3,
                 "columnno": 0,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "description": "Abstract base class for the other manager classes",
@@ -29,7 +29,7 @@
                 "filename": "Base.mjs",
                 "lineno": 14,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -54,7 +54,7 @@
                 "filename": "Base.mjs",
                 "lineno": 19,
                 "columnno": 8,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {}
             },
             "kind": "member",
@@ -83,9 +83,9 @@
                 "filename": "Base.mjs",
                 "lineno": 27,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046151",
+                    "id": "astnode100046157",
                     "name": "Base#getById",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -136,9 +136,9 @@
                 "filename": "Base.mjs",
                 "lineno": 35,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046162",
+                    "id": "astnode100046168",
                     "name": "Base#register",
                     "type": "MethodDefinition",
                     "paramnames": [
@@ -179,9 +179,9 @@
                 "filename": "Base.mjs",
                 "lineno": 49,
                 "columnno": 4,
-                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-1/node_modules/neo.mjs/src/manager",
+                "path": "/Users/Shared/github/neomjs/tutorial-covid-app-part-2/node_modules/neo.mjs/src/manager",
                 "code": {
-                    "id": "astnode100046201",
+                    "id": "astnode100046207",
                     "name": "Base#unregister",
                     "type": "MethodDefinition",
                     "paramnames": [
