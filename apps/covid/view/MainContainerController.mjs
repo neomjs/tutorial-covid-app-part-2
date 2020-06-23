@@ -16,12 +16,45 @@ class MainContainerController extends ComponentController {
         /**
          * @member {String} apiSummaryUrl='https://corona.lmao.ninja/v2/all'
          */
-        apiSummaryUrl: 'https://corona.lmao.ninja/v2/all'
+        apiSummaryUrl: 'https://corona.lmao.ninja/v2/all',
+
+        /**
+         * @member {String} apiUrl='https://disease.sh/v2/countries'
+         */
+        apiUrl: 'https://disease.sh/v2/countries',
+        /**
+         * @member {Object[]|null} data=null
+         */
+        data: null
     }}
 
     onConstructed() {
         super.onConstructed();
+
+        this.loadData();
         this.loadSummaryData();
+    }
+
+    /**
+     *
+     * @param {Object[]} data
+     */
+    addStoreItems(data) {
+        const me        = this,
+              activeTab = me.getReference('table-container');
+
+        data.forEach(item => {
+            if (item.country.includes('"')) {
+                item.country = item.country.replace('"', "\'");
+            }
+
+            item.casesPerOneMillion = item.casesPerOneMillion > item.cases ? 'N/A' : item.casesPerOneMillion || 0;
+            item.infected           = item.casesPerOneMillion;
+        });
+
+        me.data = data;
+
+        activeTab.store.data = data;
     }
 
     /**
@@ -57,6 +90,18 @@ class MainContainerController extends ComponentController {
         }).format(new Date(data.updated));
 
         container.vdom = vdom;
+    }
+
+    /**
+     *
+     */
+    loadData() {
+        const me = this;
+
+        fetch(me.apiUrl)
+            .then(response => response.json())
+            .then(data => me.addStoreItems(data))
+            .catch(err => console.log('Can’t access ' + me.apiUrl, err));
     }
 
     /**
