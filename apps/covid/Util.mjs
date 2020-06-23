@@ -43,6 +43,19 @@ class Util extends Base {
 
         return typeof color !== 'string' ? value : `<span style="color:${color};">${value}</span>`;
     }
+
+    /**
+     *
+     * @param {Object} data
+     * @param {Number} data.index
+     * @return {Object}
+     */
+    static indexRenderer(data) {
+        return {
+            cls : ['neo-index-column', 'neo-table-cell'],
+            html: data.index + 1
+        };
+    }
 }
 
 Neo.applyClassConfig(Util);
