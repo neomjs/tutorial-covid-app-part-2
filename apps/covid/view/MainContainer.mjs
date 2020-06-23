@@ -1,7 +1,7 @@
-import CountryHelix              from './country/Helix.mjs';
 import CountryTable              from './country/Table.mjs';
 import FooterContainer           from './FooterContainer.mjs';
 import HeaderContainer           from './HeaderContainer.mjs';
+import HelixContainer            from './HelixContainer.mjs';
 import MainContainerController   from './MainContainerController.mjs';
 import {default as TabContainer} from '../../../node_modules/neo.mjs/src/tab/Container.mjs';
 import Viewport                  from '../../../node_modules/neo.mjs/src/container/Viewport.mjs';
@@ -37,8 +37,7 @@ class MainContainer extends Viewport {
                         text   : 'Table'
                     }
                 }, {
-                    module   : CountryHelix,
-                    reference: 'helix',
+                    module: HelixContainer,
 
                     tabButtonConfig: {
                         iconCls: 'fa fa-dna',
