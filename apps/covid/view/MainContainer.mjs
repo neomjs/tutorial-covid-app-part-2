@@ -27,7 +27,8 @@ class MainContainer extends Viewport {
                 style    : {margin: '10px', marginTop: 0},
 
                 items: [{
-                    module: CountryTable,
+                    module   : CountryTable,
+                    reference: 'table-container',
 
                     tabButtonConfig: {
                         iconCls: 'fa fa-table',
