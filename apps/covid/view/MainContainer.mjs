@@ -1,3 +1,4 @@
+import CountryTable              from './country/Table.mjs';
 import FooterContainer           from './FooterContainer.mjs';
 import HeaderContainer           from './HeaderContainer.mjs';
 import MainContainerController   from './MainContainerController.mjs';
@@ -26,8 +27,7 @@ class MainContainer extends Viewport {
                 style    : {margin: '10px', marginTop: 0},
 
                 items: [{
-                    ntype: 'component',
-                    html : 'Tab 1',
+                    module: CountryTable,
 
                     tabButtonConfig: {
                         iconCls: 'fa fa-table',
