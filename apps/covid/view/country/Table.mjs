@@ -54,27 +54,33 @@ class Table extends Container {
         }, {
             dataField: 'casesPerOneMillion',
             text     : 'Cases / 1M'
-        },{
+        }, {
             dataField: 'infected',
-            text     : 'Infected'
+            text     : 'Infected',
+            renderer : data => Util.formatInfected(data)
         }, {
             dataField: 'active',
-            text     : 'Active'
+            text     : 'Active',
+            renderer : data => Util.formatNumber(data, '#64B5F6')
         },  {
             dataField: 'recovered',
-            text     : 'Recovered'
+            text     : 'Recovered',
+            renderer : data => Util.formatNumber(data, '#28ca68')
         }, {
             dataField: 'critical',
-            text     : 'Critical'
+            text     : 'Critical',
+            renderer : data => Util.formatNumber(data, 'orange')
         }, {
             dataField: 'deaths',
-            text     : 'Deaths'
+            text     : 'Deaths',
+            renderer : data => Util.formatNumber(data, '#fb6767')
         }, {
             dataField: 'todayCases',
             text     : 'Cases today'
         }, {
             dataField: 'todayDeaths',
-            text     : 'Deaths today'
+            text     : 'Deaths today',
+            renderer : data => Util.formatNumber(data, '#fb6767')
         }, {
             dataField: 'tests',
             text     : 'Tests'
