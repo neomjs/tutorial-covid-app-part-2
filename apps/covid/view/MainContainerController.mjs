@@ -55,6 +55,8 @@ class MainContainerController extends ComponentController {
         me.data = data;
 
         activeTab.store.data = data;
+
+        me.getReference('helix').store.data = data;
     }
 
     /**
