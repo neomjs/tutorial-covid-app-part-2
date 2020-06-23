@@ -1,3 +1,4 @@
+import CountryHelix              from './country/Helix.mjs';
 import CountryTable              from './country/Table.mjs';
 import FooterContainer           from './FooterContainer.mjs';
 import HeaderContainer           from './HeaderContainer.mjs';
@@ -36,8 +37,8 @@ class MainContainer extends Viewport {
                         text   : 'Table'
                     }
                 }, {
-                    ntype: 'component',
-                    html : 'Tab 2',
+                    module   : CountryHelix,
+                    reference: 'helix',
 
                     tabButtonConfig: {
                         iconCls: 'fa fa-dna',
