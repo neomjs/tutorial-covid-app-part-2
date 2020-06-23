@@ -1,7 +1,8 @@
-import FooterContainer         from './FooterContainer.mjs';
-import HeaderContainer         from './HeaderContainer.mjs';
-import MainContainerController from './MainContainerController.mjs';
-import Viewport                from '../../../node_modules/neo.mjs/src/container/Viewport.mjs';
+import FooterContainer           from './FooterContainer.mjs';
+import HeaderContainer           from './HeaderContainer.mjs';
+import MainContainerController   from './MainContainerController.mjs';
+import {default as TabContainer} from '../../../node_modules/neo.mjs/src/tab/Container.mjs';
+import Viewport                  from '../../../node_modules/neo.mjs/src/container/Viewport.mjs';
 
 /**
  * @class Covid.view.MainContainer
@@ -18,7 +19,32 @@ class MainContainer extends Viewport {
 
         items: [
             {module: HeaderContainer, height: 120},
-            {ntype : 'component',     vdom  : {innerHTML: 'Center'}},
+            {
+                module: TabContainer,
+                flex     : 1,
+                reference: 'tab-container',
+                style    : {margin: '10px', marginTop: 0},
+
+                items: [{
+                    ntype: 'component',
+                    html : 'Tab 1',
+
+                    tabButtonConfig: {
+                        iconCls: 'fa fa-table',
+                        route  : 'mainview=table',
+                        text   : 'Table'
+                    }
+                }, {
+                    ntype: 'component',
+                    html : 'Tab 2',
+
+                    tabButtonConfig: {
+                        iconCls: 'fa fa-dna',
+                        route  : 'mainview=helix',
+                        text   : 'Helix'
+                    }
+                }]
+            },
             FooterContainer
         ]
     }}
