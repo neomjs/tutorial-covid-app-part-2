@@ -178,6 +178,7 @@ class MainContainerController extends ComponentController {
      * @param {Object} data
      */
     onReloadDataButtonClick(data) {
+        this.loadData();
         this.loadSummaryData();
     }
 
