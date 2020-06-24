@@ -31,10 +31,10 @@ class MainContainerController extends ComponentController {
          */
         data: null,
         /**
-         * @member {String[]} mainTabs=['table', 'helix']
+         * @member {String[]} mainTabs=['table', 'helix', 'gallery']
          * @protected
          */
-        mainTabs: ['table', 'helix']
+        mainTabs: ['table', 'helix', 'gallery']
     }}
 
     onConstructed() {
