@@ -100,6 +100,17 @@
     {
         "className": null,
         "collapsed": false,
+        "id": 198,
+        "isLeaf": false,
+        "name": "country",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": null
+    },
+    {
+        "className": null,
+        "collapsed": false,
         "id": 36,
         "isLeaf": false,
         "name": "data",
@@ -245,9 +256,20 @@
         "collapsed": false,
         "id": 170,
         "isLeaf": false,
-        "name": "mixins",
+        "name": "mixin",
         "path": "worker",
         "parentId": 164,
+        "singleton": false,
+        "srcPath": null
+    },
+    {
+        "className": null,
+        "collapsed": false,
+        "id": 192,
+        "isLeaf": false,
+        "name": "model",
+        "path": "",
+        "parentId": 191,
         "singleton": false,
         "srcPath": null
     },
@@ -270,6 +292,17 @@
         "path": "",
         "parentId": null,
         "singleton": false
+    },
+    {
+        "className": null,
+        "collapsed": false,
+        "id": 194,
+        "isLeaf": false,
+        "name": "store",
+        "path": "",
+        "parentId": 191,
+        "singleton": false,
+        "srcPath": null
     },
     {
         "className": null,
@@ -362,7 +395,7 @@
     {
         "className": null,
         "collapsed": false,
-        "id": 193,
+        "id": 197,
         "isLeaf": false,
         "name": "view",
         "path": "",
@@ -434,7 +467,7 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/ApiTreeList.mjs"
+        "srcPath": "docs/app/view/ApiTreeList.mjs"
     },
     {
         "className": "Neo.worker.App",
@@ -885,7 +918,7 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/ContentTabContainer.mjs"
+        "srcPath": "docs/app/view/ContentTabContainer.mjs"
     },
     {
         "className": "Neo.form.field.trigger.CopyToClipboard",
@@ -897,6 +930,28 @@
         "parentId": 67,
         "singleton": false,
         "srcPath": "node_modules/neo.mjs/src/form/field/trigger/CopyToClipboard.mjs"
+    },
+    {
+        "className": "Covid.store.Countries",
+        "collapsed": false,
+        "id": 195,
+        "isLeaf": true,
+        "name": "Countries",
+        "path": ".store",
+        "parentId": 194,
+        "singleton": false,
+        "srcPath": "apps/covid/store/Countries.mjs"
+    },
+    {
+        "className": "Covid.model.Country",
+        "collapsed": false,
+        "id": 193,
+        "isLeaf": true,
+        "name": "Country",
+        "path": ".model",
+        "parentId": 192,
+        "singleton": false,
+        "srcPath": "apps/covid/model/Country.mjs"
     },
     {
         "className": null,
@@ -1072,7 +1127,7 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/ExamplesTreeList.mjs"
+        "srcPath": "docs/app/view/ExamplesTreeList.mjs"
     },
     {
         "className": "Neo.data.field.Field",
@@ -1163,6 +1218,17 @@
         "srcPath": "node_modules/neo.mjs/src/manager/Focus.mjs"
     },
     {
+        "className": "Covid.view.FooterContainer",
+        "collapsed": false,
+        "id": 202,
+        "isLeaf": true,
+        "name": "FooterContainer",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": "apps/covid/view/FooterContainer.mjs"
+    },
+    {
         "className": "Neo.util.Function",
         "collapsed": false,
         "id": 153,
@@ -1183,6 +1249,39 @@
         "parentId": 7,
         "singleton": false,
         "srcPath": "node_modules/neo.mjs/src/component/Gallery.mjs"
+    },
+    {
+        "className": "Covid.view.country.Gallery",
+        "collapsed": false,
+        "id": 199,
+        "isLeaf": true,
+        "name": "Gallery",
+        "path": ".view.country",
+        "parentId": 198,
+        "singleton": false,
+        "srcPath": "apps/covid/view/country/Gallery.mjs"
+    },
+    {
+        "className": "Covid.view.GalleryContainer",
+        "collapsed": false,
+        "id": 203,
+        "isLeaf": true,
+        "name": "GalleryContainer",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": "apps/covid/view/GalleryContainer.mjs"
+    },
+    {
+        "className": "Covid.view.GalleryContainerController",
+        "collapsed": false,
+        "id": 204,
+        "isLeaf": true,
+        "name": "GalleryContainerController",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": "apps/covid/view/GalleryContainerController.mjs"
     },
     {
         "className": "Neo.selection.GalleryModel",
@@ -1226,7 +1325,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/HeaderComponent.mjs"
+        "srcPath": "docs/app/view/classdetails/HeaderComponent.mjs"
     },
     {
         "className": "Docs.app.view.HeaderContainer",
@@ -1237,18 +1336,18 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/HeaderContainer.mjs"
+        "srcPath": "docs/app/view/HeaderContainer.mjs"
     },
     {
         "className": "Covid.view.HeaderContainer",
         "collapsed": false,
-        "id": 194,
+        "id": 205,
         "isLeaf": true,
         "name": "HeaderContainer",
         "path": ".view",
-        "parentId": 193,
+        "parentId": 197,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/apps/covid/view/HeaderContainer.mjs"
+        "srcPath": "apps/covid/view/HeaderContainer.mjs"
     },
     {
         "className": "Neo.component.Helix",
@@ -1260,6 +1359,39 @@
         "parentId": 7,
         "singleton": false,
         "srcPath": "node_modules/neo.mjs/src/component/Helix.mjs"
+    },
+    {
+        "className": "Covid.view.country.Helix",
+        "collapsed": false,
+        "id": 200,
+        "isLeaf": true,
+        "name": "Helix",
+        "path": ".view.country",
+        "parentId": 198,
+        "singleton": false,
+        "srcPath": "apps/covid/view/country/Helix.mjs"
+    },
+    {
+        "className": "Covid.view.HelixContainer",
+        "collapsed": false,
+        "id": 206,
+        "isLeaf": true,
+        "name": "HelixContainer",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": "apps/covid/view/HelixContainer.mjs"
+    },
+    {
+        "className": "Covid.view.HelixContainerController",
+        "collapsed": false,
+        "id": 207,
+        "isLeaf": true,
+        "name": "HelixContainerController",
+        "path": ".view",
+        "parentId": 197,
+        "singleton": false,
+        "srcPath": "apps/covid/view/HelixContainerController.mjs"
     },
     {
         "className": "Neo.selection.HelixModel",
@@ -1292,7 +1424,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/HierarchyTreeList.mjs"
+        "srcPath": "docs/app/view/classdetails/HierarchyTreeList.mjs"
     },
     {
         "className": "Neo.main.addon.HighlightJS",
@@ -1413,7 +1545,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/MainContainer.mjs"
+        "srcPath": "docs/app/view/classdetails/MainContainer.mjs"
     },
     {
         "className": "Docs.app.view.MainContainer",
@@ -1424,18 +1556,18 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/MainContainer.mjs"
+        "srcPath": "docs/app/view/MainContainer.mjs"
     },
     {
         "className": "Covid.view.MainContainer",
         "collapsed": false,
-        "id": 195,
+        "id": 208,
         "isLeaf": true,
         "name": "MainContainer",
         "path": ".view",
-        "parentId": 193,
+        "parentId": 197,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/apps/covid/view/MainContainer.mjs"
+        "srcPath": "apps/covid/view/MainContainer.mjs"
     },
     {
         "className": "Docs.app.view.classdetails.MainContainerController",
@@ -1446,7 +1578,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/MainContainerController.mjs"
+        "srcPath": "docs/app/view/classdetails/MainContainerController.mjs"
     },
     {
         "className": "Docs.app.view.MainContainerController",
@@ -1457,18 +1589,18 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/MainContainerController.mjs"
+        "srcPath": "docs/app/view/MainContainerController.mjs"
     },
     {
         "className": "Covid.view.MainContainerController",
         "collapsed": false,
-        "id": 196,
+        "id": 209,
         "isLeaf": true,
         "name": "MainContainerController",
         "path": ".view",
-        "parentId": 193,
+        "parentId": 197,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/apps/covid/view/MainContainerController.mjs"
+        "srcPath": "apps/covid/view/MainContainerController.mjs"
     },
     {
         "className": "Neo.worker.Manager",
@@ -1534,7 +1666,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/MembersList.mjs"
+        "srcPath": "docs/app/view/classdetails/MembersList.mjs"
     },
     {
         "className": "Neo.worker.Message",
@@ -1691,15 +1823,15 @@
         "srcPath": "node_modules/neo.mjs/src/data/RecordFactory.mjs"
     },
     {
-        "className": "Neo.worker.mixins.RemoteMethodAccess",
+        "className": "Neo.worker.mixin.RemoteMethodAccess",
         "collapsed": false,
         "id": 171,
         "isLeaf": true,
         "name": "RemoteMethodAccess",
-        "path": "worker.mixins",
+        "path": "worker.mixin",
         "parentId": 170,
         "singleton": false,
-        "srcPath": "node_modules/neo.mjs/src/worker/mixins/RemoteMethodAccess.mjs"
+        "srcPath": "node_modules/neo.mjs/src/worker/mixin/RemoteMethodAccess.mjs"
     },
     {
         "className": "Neo.selection.table.RowModel",
@@ -1776,7 +1908,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/SourceViewComponent.mjs"
+        "srcPath": "docs/app/view/classdetails/SourceViewComponent.mjs"
     },
     {
         "className": "Neo.form.field.trigger.SpinDown",
@@ -1876,6 +2008,17 @@
         "parentId": 97,
         "singleton": true,
         "srcPath": "node_modules/neo.mjs/src/main/addon/Stylesheet.mjs"
+    },
+    {
+        "className": "Covid.view.country.Table",
+        "collapsed": false,
+        "id": 201,
+        "isLeaf": true,
+        "name": "Table",
+        "path": ".view.country",
+        "parentId": 198,
+        "singleton": false,
+        "srcPath": "apps/covid/view/country/Table.mjs"
     },
     {
         "className": "Neo.form.field.Text",
@@ -1996,7 +2139,7 @@
         "path": "view.classdetails",
         "parentId": 177,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/classdetails/TutorialComponent.mjs"
+        "srcPath": "docs/app/view/classdetails/TutorialComponent.mjs"
     },
     {
         "className": "Docs.app.view.TutorialsTreeList",
@@ -2007,7 +2150,7 @@
         "path": "view",
         "parentId": 175,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/docs/app/view/TutorialsTreeList.mjs"
+        "srcPath": "docs/app/view/TutorialsTreeList.mjs"
     },
     {
         "className": "Neo.core.Util",
@@ -2023,13 +2166,13 @@
     {
         "className": "Covid.Util",
         "collapsed": false,
-        "id": 192,
+        "id": 196,
         "isLeaf": true,
         "name": "Util",
         "path": "",
         "parentId": 191,
         "singleton": false,
-        "srcPath": "tutorial-covid-app-part-2/apps/covid/Util.mjs"
+        "srcPath": "apps/covid/Util.mjs"
     },
     {
         "className": "Neo.layout.VBox",
