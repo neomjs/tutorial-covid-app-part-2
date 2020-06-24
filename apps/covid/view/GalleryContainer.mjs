@@ -70,10 +70,6 @@ class GalleryContainer extends Container {
                 }, {
                     ntype: 'label',
                     text : 'Gallery Controls'
-                }, '->', {
-                    ntype  : 'button',
-                    handler: 'onWindowGalleryMaximizeButtonClick',
-                    iconCls: 'far fa-window-maximize'
                 }]
             }],
 

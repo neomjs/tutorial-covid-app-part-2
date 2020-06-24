@@ -1,5 +1,6 @@
 import CountryTable              from './country/Table.mjs';
 import FooterContainer           from './FooterContainer.mjs';
+import GalleryContainer          from './GalleryContainer.mjs';
 import HeaderContainer           from './HeaderContainer.mjs';
 import HelixContainer            from './HelixContainer.mjs';
 import MainContainerController   from './MainContainerController.mjs';
@@ -28,21 +29,26 @@ class MainContainer extends Viewport {
                 style    : {margin: '10px', marginTop: 0},
 
                 items: [{
-                    module   : CountryTable,
-                    reference: 'table',
-
+                    module         : CountryTable,
+                    reference      : 'table',
                     tabButtonConfig: {
                         iconCls: 'fa fa-table',
                         route  : 'mainview=table',
                         text   : 'Table'
                     }
                 }, {
-                    module: HelixContainer,
-
+                    module         : HelixContainer,
                     tabButtonConfig: {
                         iconCls: 'fa fa-dna',
                         route  : 'mainview=helix',
                         text   : 'Helix'
+                    }
+                }, {
+                    module         : GalleryContainer,
+                    tabButtonConfig: {
+                        iconCls: 'fa fa-images',
+                        route  : 'mainview=gallery',
+                        text   : 'Gallery'
                     }
                 }]
             },
