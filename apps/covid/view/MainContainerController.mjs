@@ -50,7 +50,8 @@ class MainContainerController extends ComponentController {
      */
     addStoreItems(data) {
         const me        = this,
-              activeTab = me.getReference('table-container');
+              reference = me.mainTabs[me.activeMainTabIndex],
+              activeTab = me.getReference(reference);
 
         data.forEach(item => {
             if (item.country.includes('"')) {
@@ -64,8 +65,6 @@ class MainContainerController extends ComponentController {
         me.data = data;
 
         activeTab.store.data = data;
-
-        me.getReference('helix').store.data = data;
     }
 
     /**
