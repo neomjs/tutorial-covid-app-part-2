@@ -14,6 +14,10 @@ class MainContainerController extends ComponentController {
          */
         className: 'Covid.view.MainContainerController',
         /**
+         * @member {Number} activeMainTabIndex=0
+         */
+        activeMainTabIndex: 0,
+        /**
          * @member {String} apiSummaryUrl='https://corona.lmao.ninja/v2/all'
          */
         apiSummaryUrl: 'https://corona.lmao.ninja/v2/all',
@@ -25,7 +29,12 @@ class MainContainerController extends ComponentController {
         /**
          * @member {Object[]|null} data=null
          */
-        data: null
+        data: null,
+        /**
+         * @member {String[]} mainTabs=['table', 'helix']
+         * @protected
+         */
+        mainTabs: ['table', 'helix']
     }}
 
     onConstructed() {
@@ -96,6 +105,20 @@ class MainContainerController extends ComponentController {
 
     /**
      *
+     * @param {Object} hashObject
+     * @param {String} hashObject.mainview
+     * @returns {Number}
+     */
+    getTabIndex(hashObject) {
+        if (!hashObject || !hashObject.mainview) {
+            return 0;
+        }
+
+        return this.mainTabs.indexOf(hashObject.mainview);
+    }
+
+    /**
+     *
      */
     loadData() {
         const me = this;
@@ -116,6 +139,20 @@ class MainContainerController extends ComponentController {
             .then(response => response.json())
             .then(data => me.applySummaryData(data))
             .catch(err => console.log('Can’t access ' + me.apiSummaryUrl, err));
+    }
+
+    /**
+     *
+     * @param {Object} value
+     * @param {Object} oldValue
+     */
+    onHashChange(value, oldValue) {
+        let me           = this,
+            activeIndex  = me.getTabIndex(value.hash),
+            tabContainer = me.getReference('tab-container');
+
+        tabContainer.activeIndex = activeIndex;
+        me.activeMainTabIndex    = activeIndex;
     }
 
     /**
