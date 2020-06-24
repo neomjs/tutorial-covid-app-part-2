@@ -118,6 +118,15 @@ class MainContainerController extends ComponentController {
 
     /**
      *
+     * @param {Number} tabIndex
+     * @returns {Neo.component.Base}
+     */
+    getView(tabIndex) {
+        return this.getReference(this.mainTabs[tabIndex]);
+    }
+
+    /**
+     *
      */
     loadData() {
         const me = this;
@@ -148,10 +157,21 @@ class MainContainerController extends ComponentController {
     onHashChange(value, oldValue) {
         let me           = this,
             activeIndex  = me.getTabIndex(value.hash),
+            activeView   = me.getView(activeIndex),
             tabContainer = me.getReference('tab-container');
 
         tabContainer.activeIndex = activeIndex;
         me.activeMainTabIndex    = activeIndex;
+
+        if (activeView.ntype === 'helix') {
+            activeView.getOffsetValues();
+        }
+
+        // todo: this will only load each store once. adjust the logic in case we want to support reloading the API
+
+        if (me.data && activeView.store && activeView.store.getCount() < 1) {
+            activeView.store.data = me.data;
+        }
     }
 
     /**

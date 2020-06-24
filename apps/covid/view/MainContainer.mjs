@@ -29,7 +29,7 @@ class MainContainer extends Viewport {
 
                 items: [{
                     module   : CountryTable,
-                    reference: 'table-container',
+                    reference: 'table',
 
                     tabButtonConfig: {
                         iconCls: 'fa fa-table',
