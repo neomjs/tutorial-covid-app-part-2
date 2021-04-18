@@ -4,7 +4,7 @@ import GalleryContainer          from './GalleryContainer.mjs';
 import HeaderContainer           from './HeaderContainer.mjs';
 import HelixContainer            from './HelixContainer.mjs';
 import MainContainerController   from './MainContainerController.mjs';
-import {default as TabContainer} from '../../../node_modules/neo.mjs/src/tab/Container.mjs';
+import TabContainer              from '../../../node_modules/neo.mjs/src/tab/Container.mjs';
 import Viewport                  from '../../../node_modules/neo.mjs/src/container/Viewport.mjs';
 
 /**
